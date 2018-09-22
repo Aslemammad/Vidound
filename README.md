@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/5hkJKZago93YiXaMeM/giphy.gif" width="720" height="360" />
+<img src="https://file.io/a6JWKt" width="720" height="360" />
 
 # Vidound
 This project for sort pictures,videos and music.
@@ -15,7 +15,7 @@ Project by:
 ## Thanks for
 
 Thanks for [<b>Kia Hamedi</b>](https://t.me/happy722) to help.<br>
-<b>wrote in Wednesday, August 29, 2018</b>
+<b>wrote in Saturday, 22 September 2018</b>
 
 
 
