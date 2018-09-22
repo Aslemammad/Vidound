@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/5hkJKZago93YiXaMeM/giphy.gif" width="720" height="360" />
+<img src="https://media.giphy.com/media/5hkJKZago93YiXaMeM/giphy.gif" width="900" height="280" />
 
 # Vidound
 This project for sort pictures,videos and music.
