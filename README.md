@@ -10,12 +10,12 @@ thanks
 Project by:
 - Mohammad Bagher Abiat 
 - Telegram : [@MBAbiat](https://t.me/MBAbiat)
-- Github : [github.com/MBAbiat](https://github.com/MBAbiat)<br>
+- Github : [github.com/MBAbiat](https://github.com/MBAbiat)<br />
  
 
 ## Thanks for
 
-Thanks for [<b>Kia Hamedi</b>](https://t.me/happy722) to help.<br>
+Thanks for [<b>Kia Hamedi</b>](https://t.me/happy722) to help.<br />
 <b>wrote in Saturday, 22 September 2018</b>
 
 
