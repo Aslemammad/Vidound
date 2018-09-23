@@ -2,7 +2,8 @@
 <img src="https://media.giphy.com/media/5hkJKZago93YiXaMeM/giphy.gif" width="900" height="340" />
 
 # Vidound
-This project for sort pictures,videos and music.
+This project for sort pictures,videos and music.You can see its work in top gif.<br />
+thanks
 
 ## By 
 
