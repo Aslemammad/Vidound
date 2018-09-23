@@ -29,9 +29,9 @@ java -jar "vidound.jar"
 ```
 example for enter the folder address
 ```
-/home/username/documnts/
+/home/username/Documnts/
 ```
 or 
 ```
-/home/username/documnts
+/home/username/Documnts
 ```
