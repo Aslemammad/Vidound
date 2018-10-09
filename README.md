@@ -1,5 +1,5 @@
 
-<img src="https://preview.ibb.co/ebNkg9/Vidound.png" width="1366" height="768" />
+<img src="https://preview.ibb.co/ebNkg9/Vidound.png" width="1280" height="500" />
 # Vidound
 This project for sort pictures,videos and music.You can see its work in top gif.<br />
 thanks<br /><br />
