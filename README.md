@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/443DcGspHzBCaOFfFh/giphy.gif" width="900" height="340" />
+
 
 # Vidound
 This project for sort pictures,videos and music.You can see its work in top gif.<br />
@@ -21,6 +21,7 @@ Thanks for [<b>Kia Hamedi</b>](https://t.me/happy722) to help.<br />
 
 
 ## Use
+<img src="https://media.giphy.com/media/443DcGspHzBCaOFfFh/giphy.gif" width="900" height="340" />
 
 To run the project from the command line, go to the <b>dist</b> folder and
 type the following:
